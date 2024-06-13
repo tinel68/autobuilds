@@ -12,4 +12,4 @@ Build it:
 Run it:
 `docker container run --detach -p 80:80 linux_tweet_app`
 
-![Build-Push-And-Test Workflow](https://github.com/tinel68/autobuildsactions/workflows/build-push-and-deploy.yml/badge.svg)
+![Build-Push-And-Test Workflow](https://github.com/tinel68/autobuilds/actions/workflows/build-push-and-deploy.yml/badge.svg)

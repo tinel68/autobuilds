@@ -11,3 +11,5 @@ Build it:
 
 Run it:
 `docker container run --detach -p 80:80 linux_tweet_app`
+
+![Build-Push-And-Test Workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/build-push-and-deploy.yml/badge.svg)
